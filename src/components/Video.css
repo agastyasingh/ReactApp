@@ -1,0 +1,22 @@
+.light{
+    /* background-color:gold; */
+    border-radius: 10px;
+    height: 5vh;
+    /* width: 15em; */
+    color:blueviolet;
+}
+
+.video-details{
+    display: flex;
+    margin-left: 10px;
+}
+
+.title{
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+.channel, views{
+    font-size: small;
+    margin-bottom: 0.2em;
+}
